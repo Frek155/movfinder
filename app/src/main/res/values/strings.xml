@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MovieFinder</string>
+    <string name="Search">Search</string>
+    <string name="Title">Title: </string>
+    <string name="Released">Released: </string>
+    <string name="Genre">Genre: </string>
+    <string name="Runtime">Runtime: </string>
+    <string name="Plot">Plot: </string>
+    <string name="Actors">Actors: </string>
+    <string name="Awards">Awards: </string>
+
+</resources>
